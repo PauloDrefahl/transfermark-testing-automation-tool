@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Testing">
+    <test name="Regression">
+        <classes>
+            <class name="calendarBirthday"></class>
+            <class name="getPlayerStats"></class>
+            <class name="lastArticleBubble"></class>
+            <class name="LastPlayersTransfersClubs"></class>
+            <class name="liveVideo"></class>
+            <class name="Login"></class>
+            <class name="mapAmericaCompetitions"></class>
+            <class name="popUpRemoval"></class>
+            <class name="RegisterIntegration"></class>
+            <class name="RegisterMyTM"></class>
+        </classes>
+    </test>
+</suite>
